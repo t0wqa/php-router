@@ -1,0 +1,16 @@
+{
+    "name": "t0wqa/framework",
+    "authors": [
+        {
+            "name": "Anton Khomchenko",
+            "email": "antonkh94@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "../framework/",
+            "System\\": "../framework/System/"
+        }
+    }
+}
