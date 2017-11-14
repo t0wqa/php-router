@@ -2,31 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66efded2-0a3e-4d23-928a-bbcd510594cb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/t0wqa.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Components/Request/Request.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Components/Router/CompilationStrategyGuesser.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Components/Router/CompiledRoute.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Components/Router/CompiledRouteBuilder/CompiledRouteBuilder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Components/Router/Compiler/RouteCompiler.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Components/Router/Compiler/Strategy/AbstractCompilationStrategy.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Components/Router/Compiler/Strategy/CompilationStrategyInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Components/Router/Compiler/Strategy/NoRouteCompilationStrategy.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Components/Router/Compiler/Strategy/PreSluggedCompilationStrategy.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Components/Router/Compiler/Strategy/SimpleCompilationStrategy.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Components/Router/Route.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Components/Router/RouteBuilder/Builder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Components/Router/RouteBuilder/RouteBuilder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Components/Router/RouteCollection.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Components/Router/RouteCollectionInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Components/Router/Router.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Config/Routes.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Core/Application.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Core/Container/Container.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/System/Framework/Framework.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ideology.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Components/Request/Request.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Config/Routes.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Core/Application.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Core/Container/Container.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/System/Framework/Framework.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ideology.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,30 +21,10 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="microblogDB.php" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/microblogDB.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="166" column="69" lean-forward="false" selection-start-line="166" selection-start-column="69" selection-end-line="166" selection-end-column="69" />
-              <folding>
-                <marker date="1510011390037" expanded="true" signature="514:554" ph="SELECT COUNT... user" />
-                <marker date="1510011390037" expanded="true" signature="514:555" ph="SELECT COUNT... users" />
-                <marker date="1510011390037" expanded="true" signature="909:948" ph="SELECT * FRO... user" />
-                <marker date="1510011390037" expanded="true" signature="909:949" ph="SELECT * FRO... user" />
-                <marker date="1510011390037" expanded="true" signature="1211:1265" ph="INSERT INTO post... " />
-                <marker date="1510011390037" expanded="true" signature="3120:3218" ph="INSERT INTO user... " />
-                <marker date="1510011390037" expanded="true" signature="4261:4304" ph="SELECT id FR... users" />
-                <marker date="1510011390037" expanded="true" signature="4412:4456" ph="SELECT id FR... users" />
-                <marker date="1510011390037" expanded="true" signature="4562:4630" ph="INSERT INTO relations... " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Route.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Components/Router/Route.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2078">
+            <state relative-caret-position="2704">
               <caret line="175" column="0" lean-forward="false" selection-start-line="175" selection-start-column="0" selection-end-line="175" selection-end-column="0" />
               <folding />
             </state>
@@ -249,6 +212,10 @@
               <option name="myItemId" value="Components" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Router" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -361,16 +328,15 @@
       <workItem from="1509966471528" duration="6318000" />
       <workItem from="1510073103124" duration="18000" />
       <workItem from="1510614444987" duration="1206000" />
-      <workItem from="1510651452359" duration="172000" />
+      <workItem from="1510651452359" duration="442000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58494000" />
+    <option name="totallyTimeSpent" value="58764000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1922" height="1053" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26307365" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -379,7 +345,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -661,20 +627,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Config/routes.php" />
-    <entry file="file://$PROJECT_DIR$/Config/Routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ideology.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="287">
           <caret line="94" column="22" lean-forward="false" selection-start-line="94" selection-start-column="22" selection-end-line="94" selection-end-column="22" />
-          <folding>
-            <element signature="e#7#676#0#PHP" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -689,13 +646,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Core/Application.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="43" column="47" lean-forward="false" selection-start-line="43" selection-start-column="47" selection-end-line="43" selection-end-column="47" />
         </state>
       </provider>
     </entry>
@@ -799,8 +749,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Components/Router/Route.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2078">
+        <state relative-caret-position="2704">
           <caret line="175" column="0" lean-forward="false" selection-start-line="175" selection-start-column="0" selection-end-line="175" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/Application.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret line="43" column="47" lean-forward="false" selection-start-line="43" selection-start-column="47" selection-end-line="43" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Config/Routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
           <folding />
         </state>
       </provider>
